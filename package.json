@@ -1,0 +1,15 @@
+{
+  "name": "persistent-jenkins",
+  "version": "1.0.0",
+  "description": "Use Docker/Grunt to create and migrate a persistent Jenkins CI Server.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-exec": "^0.4.6"
+  }
+}
