@@ -21,7 +21,7 @@ Persistent Jenkins server running on docker that is easy to deploy and migrate.
 # List of options
 - grunt init: builds required images and creates the required docker containers
 - grunt start: starts the Jenkins Server, available on port 8080
-- grunt stop: stop the Jenkins Server
-- grunt export-data: Saves any changes to the data for any rebuilds
+- grunt stop: stops the Jenkins Server
+- grunt export-data: Saves any changes to the data for any rebuilds/migrations
 
 
